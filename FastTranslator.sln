@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastTranslator", "FastTranslator\FastTranslator.csproj", "{B415CDC3-A580-4EB4-B669-E6EA49852A01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B415CDC3-A580-4EB4-B669-E6EA49852A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B415CDC3-A580-4EB4-B669-E6EA49852A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B415CDC3-A580-4EB4-B669-E6EA49852A01}.Debug|x86.ActiveCfg = Debug|x86
+		{B415CDC3-A580-4EB4-B669-E6EA49852A01}.Debug|x86.Build.0 = Debug|x86
+		{B415CDC3-A580-4EB4-B669-E6EA49852A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B415CDC3-A580-4EB4-B669-E6EA49852A01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B415CDC3-A580-4EB4-B669-E6EA49852A01}.Release|x86.ActiveCfg = Release|x86
+		{B415CDC3-A580-4EB4-B669-E6EA49852A01}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94D5B1F4-9C9D-421F-BAE0-EB4873574064}
+	EndGlobalSection
+EndGlobal
